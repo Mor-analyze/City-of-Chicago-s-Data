@@ -1,4 +1,4 @@
-# City-of-Chicago-s-Data
+# City of Chicago Crime Analysis
 
 
 1. Socioeconomic Indicators in Chicago
