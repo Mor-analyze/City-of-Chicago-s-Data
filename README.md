@@ -21,3 +21,9 @@ This dataset reflects reported incidents of crime (with the exception of murders
 A detailed description of this dataset and the original dataset can be obtained from the Chicago Data Portal at:
 
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
+
+Key Objectives:
+- crimes that were recorded at schools
+- the average safety score for each type of school
+- community areas with highest % of households below poverty line
+- Which community area is most crime prone?
